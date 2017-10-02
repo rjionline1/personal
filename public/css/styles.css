@@ -1,0 +1,48 @@
+.heading {
+	text-align: center;
+}
+
+body { 
+    margin-top: 75px; 
+}
+
+.small-font {
+	font-size: 25px;
+}
+
+.spacing-top {
+	margin-top: 20px;
+}
+
+.dropdown-toggle {
+	font-size: 15px;
+}
+
+li.dropdown:last-child .dropdown-menu {
+  right: 0;
+  left: auto;
+}
+
+.login-link {
+	font-size: 15px;
+}
+
+.dropdown-toggle::after {
+    display:none
+}
+
+.grey-background {
+	background-color: lightgrey;
+}
+
+.well-padding {
+	padding: 15px;
+}
+
+.lg-font {
+	font-size: 25px
+}
+
+.login-link {
+	color: black;
+}
